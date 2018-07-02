@@ -1,0 +1,21 @@
+1.0.6
+- Blubibulga updated the French translation
+
+1.0.5
+- Added French translation, thanks to Blubibulga
+
+1.0.4
+- Added Russian translation, thanks to Alisiawitch.
+
+1.0.3
+- The counter window shouldn't hide anymore automaticly on (sub)zone change if opened with '/scounter show' (or aliases) until '/scounter hide' (or aliases) is called.
+- Thanks to headhunter2k for reviewing my German translations. If you can, please help with translating.
+
+1.0.2
+- Changed to manual CHANGELOG.txt
+
+1.0.1
+- Fixed issue where after wipe the counters seemed like they weren't reseted, while they were, but the counter window itself didn't update until first Corrupted Blood was hit or it hitted a player
+
+1.0
+- Initial release

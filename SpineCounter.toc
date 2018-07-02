@@ -1,0 +1,11 @@
+## Interface: 40300
+## Author: Kelzu (Stormreaver EU)
+## Title: SpineCounter
+## Version: v1.0.6
+## Notes: Counts corrupted bloods and residues on Spine of Deathwing encounter
+## Dependencies:
+## OptionalDeps: Ace3
+
+embeds.xml
+Locales\Locales.xml
+SpineCounter.lua
