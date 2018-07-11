@@ -1,4 +1,4 @@
-# !!! Last update 2012
+## !!! Not under active development, last update 2012
 
 # Spine Blood Counter
 
